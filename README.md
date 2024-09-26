@@ -1,4 +1,4 @@
 ```mermeid
-flowchard LR
+flowchard LR;
 a --> b;
 ```
