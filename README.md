@@ -1,10 +1,7 @@
 # Table
 
-```csharp
-	Console.WriteLine("Hello!");
 ```
-
-```mermaid
+mermeid
 flowchard LR
 a --> b
 ```
