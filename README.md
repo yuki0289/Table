@@ -1,4 +1,4 @@
 ```mermaid
-graph TD;
+graph LR;
 a --> b;
 ```
