@@ -1,7 +1,6 @@
 # Table
 
-```
-mermeid
+```mermeid
 flowchard LR
 a --> b
 ```
