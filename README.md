@@ -1,4 +1,4 @@
-```mermeid
-flowchard LR;
+```mermaid
+graph TD;
 a --> b;
 ```
